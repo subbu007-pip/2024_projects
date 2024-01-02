@@ -16,3 +16,13 @@ This Python toolkit provides functionalities to collect and analyze data from Tw
 
    ```bash
    pip install -r requirements.txt
+# config.py
+TWITTER_API_KEYS = {
+    'consumer_key': 'your_consumer_key',
+    'consumer_secret': 'your_consumer_secret',
+    'access_token': 'your_access_token',
+    'access_token_secret': 'your_access_token_secret',
+}
+
+INSTAGRAM_USERNAME = 'your_instagram_username'
+INSTAGRAM_PASSWORD = 'your_instagram_password'
