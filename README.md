@@ -15,8 +15,9 @@ This Python toolkit provides functionalities to collect and analyze data from Tw
   # Use Thridparty Tools
   - Twint : https://github.com/twintproject/twint
   ## Case 3
-  - Using python  module
+  # Using python  module
   -  ntscraper link : https://github.com/zedeus/nitter#installation
+      - for the btter understanding and better use case please refere above link and then use
   -  snscrape  link : https://pypi.org/project/snscrape/
 ## Setup
 
