@@ -7,9 +7,17 @@ This Python toolkit provides functionalities to collect and analyze data from Tw
 ## Prerequisites
 
 - Python 3.x
-- Twitter Developer Account for Twitter API access
+  ## Case 1
+  # Use Developer account for better use (default) ideal for data extractions
+- Twitter Developer Account for Twitter API access 
 - Instagram Developer Account (for scraping, subject to Instagram's terms)
-
+  ## Case 2
+  # Use Thridparty Tools
+  - Twint : https://github.com/twintproject/twint
+  ## Case 3
+  - Using python  module
+  -  ntscraper link : https://github.com/zedeus/nitter#installation
+  -  snscrape  link : https://pypi.org/project/snscrape/
 ## Setup
 
 1. Install dependencies:
